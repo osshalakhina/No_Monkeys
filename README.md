@@ -1,6 +1,6 @@
 # No Monkeys
 
-Works made for No Monkeys conference.
+Works created for No Monkeys conference.
 
 # Preview
 
